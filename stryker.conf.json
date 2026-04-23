@@ -1,0 +1,9 @@
+{
+  "packageManager": "npm",
+  "reporters": ["progress", "html", "clear-text"],
+  "testRunner": "vitest",
+  "thresholds": {
+    "high": 80,
+    "low": 70
+  }
+}
